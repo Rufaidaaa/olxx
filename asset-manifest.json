@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/olxx/static/css/main.dad3ca43.chunk.css",
+    "main.js": "/olxx/static/js/main.21e673ba.chunk.js",
+    "main.js.map": "/olxx/static/js/main.21e673ba.chunk.js.map",
+    "runtime-main.js": "/olxx/static/js/runtime-main.da19867e.js",
+    "runtime-main.js.map": "/olxx/static/js/runtime-main.da19867e.js.map",
+    "static/css/2.beaad135.chunk.css": "/olxx/static/css/2.beaad135.chunk.css",
+    "static/js/2.aaec4338.chunk.js": "/olxx/static/js/2.aaec4338.chunk.js",
+    "static/js/2.aaec4338.chunk.js.map": "/olxx/static/js/2.aaec4338.chunk.js.map",
+    "index.html": "/olxx/index.html",
+    "precache-manifest.9452274642e2eb52e1c23f094c0855ce.js": "/olxx/precache-manifest.9452274642e2eb52e1c23f094c0855ce.js",
+    "service-worker.js": "/olxx/service-worker.js",
+    "static/css/2.beaad135.chunk.css.map": "/olxx/static/css/2.beaad135.chunk.css.map",
+    "static/css/main.dad3ca43.chunk.css.map": "/olxx/static/css/main.dad3ca43.chunk.css.map",
+    "static/js/2.aaec4338.chunk.js.LICENSE.txt": "/olxx/static/js/2.aaec4338.chunk.js.LICENSE.txt",
+    "static/media/img1.webp": "/olxx/static/media/img1.569871f7.webp",
+    "static/media/img2.webp": "/olxx/static/media/img2.593b34f1.webp",
+    "static/media/img2.png": "/olxx/static/media/img2.c9531080.png",
+    "static/media/slick-theme.css": "/olxx/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da19867e.js",
+    "static/css/2.beaad135.chunk.css",
+    "static/js/2.aaec4338.chunk.js",
+    "static/css/main.dad3ca43.chunk.css",
+    "static/js/main.21e673ba.chunk.js"
+  ]
+}
